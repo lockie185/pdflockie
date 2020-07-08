@@ -5,7 +5,7 @@ creating and reading, processing PDF files. The library is written and supported
 [FoxyUtils.com](https://foxyutils.com), where the library is used to power many of its services. 
 
 [![Build Status](https://app.wercker.com/status/22b50db125a6d376080f3f0c80d085fa/s/master "wercker status")](https://app.wercker.com/project/bykey/22b50db125a6d376080f3f0c80d085fa)
-[![GitHub (pre-)release](https://img.shields.io/github/release/unidoc/unipdf/all.svg)](https://github.com/unidoc/unipdf/releases)
+[![GitHub (pre-)release](https://img.shields.io/github/release/unidoc/unipdf/all.svg)](https://github.com/lockie185/pdflockie/releases)
 [![License: AGPL v3](https://img.shields.io/badge/License-Dual%20AGPL%20v3/Commercial-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Go Report Card](https://goreportcard.com/badge/github.com/unidoc/unipdf)](https://goreportcard.com/report/github.com/unidoc/unipdf)
 [![GoDoc](https://godoc.org/github.com/unidoc/unipdf?status.svg)](https://godoc.org/github.com/unidoc/unipdf)
@@ -45,12 +45,12 @@ Contact us if you need any specific examples.
 ## Installation
 With modules:
 ~~~
-go get github.com/unidoc/unipdf/v3
+go get github.com/lockie185/pdflockie/v3
 ~~~
 
 With GOPATH:
 ~~~
-go get github.com/unidoc/unipdf/...
+go get github.com/lockie185/pdflockie/...
 ~~~
 
 

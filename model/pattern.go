@@ -10,8 +10,8 @@ import (
 
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/lockie185/pdflockie/v3/common"
+	"github.com/lockie185/pdflockie/v3/core"
 )
 
 // A PdfPattern can represent a Pattern, either a tiling pattern or a shading pattern.

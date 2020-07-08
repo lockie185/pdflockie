@@ -6,7 +6,7 @@
 package security
 
 import (
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/lockie185/pdflockie/v3/common"
 	"testing"
 )
 

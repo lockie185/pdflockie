@@ -10,7 +10,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/lockie185/pdflockie/v3/common"
 )
 
 // Reader is the bit reader implementation.

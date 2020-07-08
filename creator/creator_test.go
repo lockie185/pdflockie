@@ -31,12 +31,12 @@ import (
 	"github.com/boombuler/barcode/qr"
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/contentstream/draw"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/extractor"
-	"github.com/unidoc/unipdf/v3/model"
-	"github.com/unidoc/unipdf/v3/model/optimize"
+	"github.com/lockie185/pdflockie/v3/common"
+	"github.com/lockie185/pdflockie/v3/contentstream/draw"
+	"github.com/lockie185/pdflockie/v3/core"
+	"github.com/lockie185/pdflockie/v3/extractor"
+	"github.com/lockie185/pdflockie/v3/model"
+	"github.com/lockie185/pdflockie/v3/model/optimize"
 )
 
 func init() {

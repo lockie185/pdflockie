@@ -6,7 +6,7 @@
 package extractor
 
 import (
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/lockie185/pdflockie/v3/model"
 )
 
 // Extractor stores and offers functionality for extracting content from PDF pages.

@@ -11,7 +11,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/lockie185/pdflockie/v3/internal/jbig2/reader"
 )
 
 // Node is the interface defined for all huffman tree nodes.

@@ -11,8 +11,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/lockie185/pdflockie/v3/common"
+	"github.com/lockie185/pdflockie/v3/core"
 )
 
 // Hasher is the interface that wraps the basic Write method.

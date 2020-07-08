@@ -8,7 +8,7 @@ package bitmap
 import (
 	"image"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/lockie185/pdflockie/v3/common"
 )
 
 // CombineBytes combines the provided bytes with respect to the CombinationOperator.

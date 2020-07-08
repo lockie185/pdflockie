@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/lockie185/pdflockie/v3/model"
 )
 
 func TestListSimple(t *testing.T) {

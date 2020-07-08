@@ -38,10 +38,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/internal/cmap"
-	"github.com/unidoc/unipdf/v3/internal/textencoding"
+	"github.com/lockie185/pdflockie/v3/common"
+	"github.com/lockie185/pdflockie/v3/core"
+	"github.com/lockie185/pdflockie/v3/internal/cmap"
+	"github.com/lockie185/pdflockie/v3/internal/textencoding"
 )
 
 // MakeEncoder returns an encoder built from the tables in `rec`.

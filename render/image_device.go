@@ -16,8 +16,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/model"
-	"github.com/unidoc/unipdf/v3/render/internal/context/imagerender"
+	"github.com/lockie185/pdflockie/v3/model"
+	"github.com/lockie185/pdflockie/v3/render/internal/context/imagerender"
 )
 
 // ImageDevice is used to render PDF pages to image targets.

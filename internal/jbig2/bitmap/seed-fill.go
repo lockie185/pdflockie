@@ -8,8 +8,8 @@ package bitmap
 import (
 	"image"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/basic"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/errors"
+	"github.com/lockie185/pdflockie/v3/internal/jbig2/basic"
+	"github.com/lockie185/pdflockie/v3/internal/jbig2/errors"
 )
 
 // maxIterations is a constant used to prevent infitite loops.

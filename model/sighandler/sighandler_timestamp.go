@@ -20,8 +20,8 @@ import (
 
 	"github.com/unidoc/pkcs7"
 	"github.com/unidoc/timestamp"
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/lockie185/pdflockie/v3/core"
+	"github.com/lockie185/pdflockie/v3/model"
 )
 
 // docTimeStamp DocTimeStamp signature handler.

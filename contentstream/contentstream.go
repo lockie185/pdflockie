@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/lockie185/pdflockie/v3/core"
 )
 
 // ContentStreamOperation represents an operation in PDF contentstream which consists of

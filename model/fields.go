@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/lockie185/pdflockie/v3/common"
+	"github.com/lockie185/pdflockie/v3/core"
 )
 
 // FieldFlag represents form field flags. Some of the flags can apply to all types of fields whereas other

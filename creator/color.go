@@ -10,7 +10,7 @@ import (
 
 	"math"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/lockie185/pdflockie/v3/common"
 )
 
 // Color interface represents colors in the PDF creator.

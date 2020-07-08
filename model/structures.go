@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/lockie185/pdflockie/v3/core"
 )
 
 // PdfRectangle is a definition of a rectangle.

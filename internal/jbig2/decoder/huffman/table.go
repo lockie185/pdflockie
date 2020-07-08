@@ -8,7 +8,7 @@ package huffman
 import (
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/lockie185/pdflockie/v3/internal/jbig2/reader"
 )
 
 // Tabler is the interface for all types of the huffman tables.

@@ -8,7 +8,7 @@ package draw
 import (
 	"math"
 
-	"github.com/unidoc/unipdf/v3/model"
+	"github.com/lockie185/pdflockie/v3/model"
 )
 
 // CubicBezierCurve is defined by:

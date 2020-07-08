@@ -8,7 +8,7 @@ package huffman
 import (
 	"errors"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/lockie185/pdflockie/v3/internal/jbig2/reader"
 )
 
 // StandardTable is the structure that defines standard jbig2 table.

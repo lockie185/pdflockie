@@ -25,7 +25,7 @@ node {
     env.TMPDIR="${WORKSPACE}/temp"
     sh "mkdir -p ${env.TMPDIR}"
 
-    dir("${GOPATH}/src/github.com/unidoc/unipdf") {
+    dir("${GOPATH}/src/github.com/lockie185/pdflockie") {
         sh 'go version'
 
         stage('Checkout') {
@@ -80,7 +80,7 @@ node {
         }
     }
 
-    dir("${GOPATH}/src/github.com/unidoc/unipdf-examples") {
+    dir("${GOPATH}/src/github.com/lockie185/pdflockie-examples") {
         stage('Build examples') {
             // Output environment variables (useful for debugging).
             sh("printenv")

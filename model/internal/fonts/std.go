@@ -6,8 +6,8 @@
 package fonts
 
 import (
-	"github.com/unidoc/unipdf/v3/core"
-	"github.com/unidoc/unipdf/v3/internal/textencoding"
+	"github.com/lockie185/pdflockie/v3/core"
+	"github.com/lockie185/pdflockie/v3/internal/textencoding"
 )
 
 // StdFontName is a name of a standard font.
